@@ -14,3 +14,15 @@ Problems are organized by topic and difficulty, focusing on important Data Struc
 
 ## 🔗 Purpose
 This repo is for personal learning, interview preparation, and sharing approaches to common algorithmic challenges.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+<!---LeetCode Topics End-->
