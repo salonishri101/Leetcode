@@ -21,6 +21,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/salonishri101/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/salonishri101/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -53,6 +54,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
@@ -71,4 +73,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
