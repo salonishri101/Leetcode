@@ -10,28 +10,28 @@ class Solution {
         }
          
 HashMap<Integer,Integer> m= new HashMap<>();
-         int len =0;
-         int maxLen =0;
+         int count =0;
+        // int maxLen =0;
         for(int i =0;i<nums.length;i++){
          
 int val =ps[i]-k;
 if(val==0){
-    len+=1;
-    maxLen=Math.max(len,maxLen);
+    count+=1;
+    //maxLen=Math.max(len,maxLen);
 }
 
 if(m.containsKey(val)){
-    m.put(ps[i],m.getOrDefault(ps[i],0)+1);
-    len+=m.get(ps[i]);
-     maxLen=Math.max(len,maxLen);
+    //m.put(ps[i],m.getOrDefault(ps[i],0)+1);
+    count+=m.get(val);
+    // maxLen=Math.max(len,maxLen);
 }
 
 
-m.put(ps[i],1);
+m.put(ps[i],m.getOrDefault(ps[i],0)+1);
 
         }
 
 
-return maxLen;
+return count;
     }
 }
