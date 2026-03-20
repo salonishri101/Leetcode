@@ -31,6 +31,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/salonishri101/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/salonishri101/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
