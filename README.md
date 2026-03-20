@@ -21,6 +21,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/salonishri101/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -41,6 +42,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -76,5 +78,6 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
