@@ -36,6 +36,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0283-move-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/salonishri101/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
@@ -105,6 +106,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0035-search-insert-position](https://github.com/salonishri101/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/salonishri101/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
