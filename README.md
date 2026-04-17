@@ -20,6 +20,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/salonishri101/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/salonishri101/Leetcode/tree/main/0035-search-insert-position/) | Easy |
@@ -80,6 +81,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/salonishri101/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
@@ -111,6 +113,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/salonishri101/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/salonishri101/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/salonishri101/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
