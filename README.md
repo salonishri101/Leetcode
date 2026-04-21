@@ -67,6 +67,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/salonishri101/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Bit Manipulation
@@ -170,6 +171,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/salonishri101/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/salonishri101/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/salonishri101/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/salonishri101/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -184,6 +186,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/salonishri101/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
