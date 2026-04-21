@@ -56,6 +56,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0141-linked-list-cycle](https://github.com/salonishri101/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/salonishri101/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -164,10 +165,16 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0141-linked-list-cycle](https://github.com/salonishri101/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/salonishri101/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
