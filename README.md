@@ -71,10 +71,12 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0002-add-two-numbers](https://github.com/salonishri101/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/salonishri101/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/salonishri101/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/salonishri101/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/salonishri101/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/salonishri101/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/salonishri101/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
