@@ -40,6 +40,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/salonishri101/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/salonishri101/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/salonishri101/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -97,6 +98,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0160-intersection-of-two-linked-lists](https://github.com/salonishri101/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/salonishri101/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0225-implement-stack-using-queues](https://github.com/salonishri101/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/salonishri101/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/salonishri101/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +223,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/salonishri101/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/salonishri101/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/salonishri101/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
