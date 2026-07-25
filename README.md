@@ -79,6 +79,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/salonishri101/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/salonishri101/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0148-sort-list](https://github.com/salonishri101/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/salonishri101/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
