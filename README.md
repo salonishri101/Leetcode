@@ -98,6 +98,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/salonishri101/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/salonishri101/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/salonishri101/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/salonishri101/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +192,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +233,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/salonishri101/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
