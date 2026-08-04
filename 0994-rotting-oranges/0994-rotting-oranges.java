@@ -1,66 +1,99 @@
 class Solution {
 
-
-    public int bfs(int[][] grid,Queue<int[]> q){
-        int countTime=0;
-
-        int[] dr = {-1,1,0,0};
-        int[] dc = {0,0,-1,1};
-       while(!q.isEmpty()){
-
-        int size=q.size();
-        boolean rottedThisRound = false;
-
-        for(int s =0;s<size;s++){
-        int [] curr=q.remove();
-        int r =curr[0];
-        int c= curr[1];
-
-        for(int i =0;i<4;i++){
-            int nr=r+dr[i];
-            int nc=c+dc[i];
-            if(nr>=0 && nr<grid.length && nc>=0 && nc<grid[0].length ){
-                if(grid[nr][nc]==1){
-                 grid[nr][nc]=2;
-                 q.add(new int[]{nr,nc});
-                 rottedThisRound = true;
-
-                }
-            }
-        }
+class Pair{
+    int first;
+    int second;
+       Pair(int first,int second){
+        this.first=first;
+         this.second=second;
        }
-      if (rottedThisRound) countTime++; 
-       }
-        for(int i =0;i<grid.length;i++){
-        for(int j =0;j<grid[0].length;j++){
-            if(grid[i][j]==1){
-               return -1;
-            }
-        }
         
+
+}
+
+class PairOfPair{
+    Pair pos;
+    int time;
+      PairOfPair(Pair pos,int time){
+        this.pos=pos;
+         this.time=time;
        }
+        
 
- return countTime;
-
-    }
+}
 
 
 
 
     public int orangesRotting(int[][] grid) {
-        Queue<int[]> q =new LinkedList<>();
+      boolean vis[][]= new boolean[grid.length][grid[0].length];
 
-       for(int i =0;i<grid.length;i++){
-        for(int j =0;j<grid[0].length;j++){
-            if(grid[i][j]==2){
-                q.add(new int[]{i,j});
+      Queue<PairOfPair> q = new LinkedList<>();
+       
+
+
+        for(int i =0;i<grid.length;i++){
+            for(int j =0;j<grid[0].length;j++){
+          if(grid[i][j]==2){
+            q.add(new PairOfPair(new Pair(i,j),0));
+            vis[i][j]=true;
+          }
+
             }
         }
         
-       }
+int ans =0;
+while(q.size()>0){
 
 
-return bfs(grid,q);
+   PairOfPair curr=q.poll();
+int i =curr.pos.first;
+int j =curr.pos.second;
+int time=curr.time;
+ans =Math.max(ans,time);
+
+
+
+
+if( i-1>=0 && grid[i-1][j]==1 && !vis[i-1][j]){
+    vis[i-1][j]=true;
+    q.add(new PairOfPair(new Pair(i-1,j),time+1));
+
+}
+
+
+if( j-1>=0 && grid[i][j-1]==1 && !vis[i][j-1]){
+    vis[i][j-1]=true;
+    q.add(new PairOfPair(new Pair(i,j-1),time+1));
+
+}
+
+if( i+1<grid.length && grid[i+1][j]==1 && !vis[i+1][j]){
+    vis[i+1][j]=true;
+    q.add(new PairOfPair(new Pair(i+1,j),time+1));
+
+}
+
+if( j+1<grid[0].length && grid[i][j+1]==1 && !vis[i][j+1]){
+    vis[i][j+1]=true;
+   q.add(new PairOfPair(new Pair(i,j+1),time+1));
+
+}
+
+
+}
+
+
+        for(int i =0;i<grid.length;i++){
+            for(int j =0;j<grid[0].length;j++){
+          if(grid[i][j]==1 && !vis[i][j]){
+           return -1;
+          }
+
+            }
+        }
+
+        return ans;
         
     }
 }
