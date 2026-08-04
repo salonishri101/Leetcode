@@ -49,6 +49,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0875-koko-eating-bananas](https://github.com/salonishri101/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/salonishri101/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/salonishri101/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/salonishri101/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -153,6 +154,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0054-spiral-matrix](https://github.com/salonishri101/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/salonishri101/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -287,6 +289,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
