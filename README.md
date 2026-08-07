@@ -92,6 +92,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/salonishri101/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/salonishri101/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/salonishri101/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +277,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +318,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/salonishri101/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
