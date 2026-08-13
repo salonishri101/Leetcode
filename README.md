@@ -53,6 +53,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/salonishri101/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1140-stone-game-ii](https://github.com/salonishri101/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/salonishri101/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -161,6 +162,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0542-01-matrix](https://github.com/salonishri101/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/salonishri101/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -318,6 +321,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/salonishri101/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -327,6 +331,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/salonishri101/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
