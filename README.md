@@ -312,12 +312,14 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/salonishri101/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/salonishri101/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -325,6 +327,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Minimax
@@ -359,4 +362,12 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/salonishri101/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
