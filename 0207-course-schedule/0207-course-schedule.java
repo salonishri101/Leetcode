@@ -1,61 +1,58 @@
 class Solution {
 
+public boolean isCycle(int node,ArrayList<ArrayList<Integer>> graph,boolean vis[] ,boolean stack[] ){
+    stack[node]=true;
+    vis[node]=true;
 
-public boolean hasCycle(ArrayList<ArrayList<Integer>> adj,boolean vis[],boolean stack[],int curr){
- vis[curr]=true;
- stack[curr]=true;
 
+    for(int neigh:graph.get(node)){
+        if(stack[neigh]){
+            return true;
+        }
 
- for(int i =0; i<adj.get(curr).size();i++){
-    int neigh=adj.get(curr).get(i);
-
-    if(stack[neigh]){
-       return true; 
+        if(!vis[neigh] && isCycle(neigh,graph,vis,stack)){
+           return true;
+        }
     }
-     if(!vis[neigh] && hasCycle(adj,vis,stack,neigh)){
-return true;
-    }
-     
-  
- }
-
- stack[curr]=false;
-
+stack[node]=false;
 return false;
 
+
 }
+
+
+
 
 
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        
 
-       ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
+         boolean vis[] = new boolean[numCourses];
+         boolean stack[] = new boolean[numCourses];
+
+        for(int i =0;i<numCourses;i++){
+            graph.add(new ArrayList<>());
+        }
+
+
+        for(int[] i:prerequisites){
+            int a =i[0];
+            int b =i[1];
+            graph.get(b).add(a);
+        }
+       
 
        for(int i =0;i<numCourses;i++){
-        adj.add(new ArrayList<>());
+        if(!vis[i]){
+
+            if(isCycle(i,graph,vis,stack)){
+                return false;
+            }
+        }
        }
-
-       for(int pre[] : prerequisites){
-        int a =pre[0];
-        int b =pre[1];
-        adj.get(b).add(a);
-
-       }
-
-       boolean vis[] = new boolean[adj.size()];
-      boolean stack[] = new boolean[adj.size()];
-
-
-       for (int i = 0; i < numCourses; i++) {
-    if (!vis[i] && hasCycle(adj, vis, stack, i)) {
-        return false;
-    }
-}
-
-
-
-         return true;
-
+return true;
 
     }
 }
