@@ -61,6 +61,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/salonishri101/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/salonishri101/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/salonishri101/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/salonishri101/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/salonishri101/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -200,6 +201,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/salonishri101/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/salonishri101/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/salonishri101/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/salonishri101/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/salonishri101/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
