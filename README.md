@@ -382,4 +382,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/salonishri101/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
