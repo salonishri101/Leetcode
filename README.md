@@ -115,6 +115,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3345-smallest-divisible-digit-product-i](https://github.com/salonishri101/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/salonishri101/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/salonishri101/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
