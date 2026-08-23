@@ -109,6 +109,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1140-stone-game-ii](https://github.com/salonishri101/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -262,6 +263,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/salonishri101/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -307,6 +309,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/salonishri101/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/salonishri101/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/salonishri101/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -347,6 +350,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1140-stone-game-ii](https://github.com/salonishri101/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
