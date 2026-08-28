@@ -97,6 +97,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/salonishri101/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/salonishri101/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +327,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/salonishri101/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +424,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/salonishri101/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
