@@ -79,6 +79,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/salonishri101/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/salonishri101/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/salonishri101/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/salonishri101/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/salonishri101/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -132,6 +133,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/salonishri101/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/salonishri101/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/salonishri101/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/salonishri101/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/salonishri101/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/salonishri101/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -216,6 +219,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +407,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
