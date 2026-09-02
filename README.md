@@ -64,6 +64,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/salonishri101/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/salonishri101/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/salonishri101/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -205,6 +206,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0547-number-of-provinces](https://github.com/salonishri101/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/salonishri101/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/salonishri101/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Prefix Sum
@@ -245,6 +248,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/salonishri101/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/salonishri101/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/salonishri101/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Indexed Tree
@@ -369,6 +373,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +397,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0785-is-graph-bipartite](https://github.com/salonishri101/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/salonishri101/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -408,6 +414,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/salonishri101/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
@@ -494,4 +501,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/salonishri101/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
