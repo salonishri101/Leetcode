@@ -416,6 +416,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0802-find-eventual-safe-states](https://github.com/salonishri101/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/salonishri101/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -537,4 +538,12 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0743-network-delay-time](https://github.com/salonishri101/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/salonishri101/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/salonishri101/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/salonishri101/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
