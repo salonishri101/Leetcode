@@ -293,6 +293,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/salonishri101/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -446,6 +447,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0785-is-graph-bipartite](https://github.com/salonishri101/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/salonishri101/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/salonishri101/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -494,6 +496,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0207-course-schedule](https://github.com/salonishri101/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/salonishri101/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/salonishri101/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,9 +530,11 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/salonishri101/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/salonishri101/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/salonishri101/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
