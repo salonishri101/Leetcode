@@ -56,6 +56,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0904-fruit-into-baskets](https://github.com/salonishri101/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/salonishri101/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/salonishri101/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/salonishri101/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/salonishri101/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -186,6 +187,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0904-fruit-into-baskets](https://github.com/salonishri101/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/salonishri101/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/salonishri101/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/salonishri101/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/salonishri101/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -211,6 +213,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/salonishri101/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -534,6 +537,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0424-longest-repeating-character-replacement](https://github.com/salonishri101/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/salonishri101/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/salonishri101/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/salonishri101/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/salonishri101/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/salonishri101/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
