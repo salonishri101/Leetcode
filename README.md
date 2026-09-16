@@ -40,6 +40,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/salonishri101/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/salonishri101/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -110,6 +111,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/salonishri101/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -161,6 +163,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0148-sort-list](https://github.com/salonishri101/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/salonishri101/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/salonishri101/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -332,6 +335,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -613,4 +617,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/salonishri101/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
