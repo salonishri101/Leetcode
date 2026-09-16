@@ -174,6 +174,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/salonishri101/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/salonishri101/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/salonishri101/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/salonishri101/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -384,6 +385,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/salonishri101/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/salonishri101/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0076-minimum-window-substring](https://github.com/salonishri101/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/salonishri101/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/salonishri101/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/salonishri101/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -534,6 +536,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/salonishri101/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/salonishri101/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/salonishri101/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/salonishri101/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/salonishri101/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
