@@ -52,6 +52,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0628-maximum-product-of-three-numbers](https://github.com/salonishri101/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/salonishri101/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/salonishri101/Leetcode/tree/main/0835-image-overlap/) | Medium |
+| [0860-lemonade-change](https://github.com/salonishri101/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/salonishri101/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/salonishri101/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/salonishri101/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -336,6 +337,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/salonishri101/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
