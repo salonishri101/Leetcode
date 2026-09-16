@@ -134,6 +134,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -269,6 +270,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1004-max-consecutive-ones-iii](https://github.com/salonishri101/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/salonishri101/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/salonishri101/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/salonishri101/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -327,6 +329,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/salonishri101/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/salonishri101/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -580,6 +583,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
