@@ -24,6 +24,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/salonishri101/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/salonishri101/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/salonishri101/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/salonishri101/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -325,6 +326,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/salonishri101/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/salonishri101/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -350,6 +352,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/salonishri101/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
