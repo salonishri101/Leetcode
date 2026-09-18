@@ -26,6 +26,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0035-search-insert-position](https://github.com/salonishri101/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/salonishri101/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/salonishri101/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/salonishri101/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/salonishri101/Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -320,6 +321,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/salonishri101/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/salonishri101/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -343,6 +345,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
