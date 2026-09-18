@@ -324,6 +324,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/salonishri101/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/salonishri101/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/salonishri101/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/salonishri101/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -344,6 +345,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/salonishri101/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -391,6 +393,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0234-palindrome-linked-list](https://github.com/salonishri101/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/salonishri101/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/salonishri101/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## String
@@ -401,6 +404,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0076-minimum-window-substring](https://github.com/salonishri101/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/salonishri101/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/salonishri101/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/salonishri101/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/salonishri101/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -632,4 +636,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
