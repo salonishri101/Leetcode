@@ -35,6 +35,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/salonishri101/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/salonishri101/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/salonishri101/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/salonishri101/Leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/salonishri101/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/salonishri101/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -370,6 +371,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/salonishri101/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/salonishri101/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/salonishri101/Leetcode/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
