@@ -182,6 +182,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0435-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/salonishri101/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/salonishri101/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/salonishri101/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -211,6 +212,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0930-binary-subarrays-with-sum](https://github.com/salonishri101/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/salonishri101/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/salonishri101/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/salonishri101/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -427,6 +429,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0503-next-greater-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/salonishri101/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -438,6 +441,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0424-longest-repeating-character-replacement](https://github.com/salonishri101/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/salonishri101/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/salonishri101/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/salonishri101/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -529,6 +533,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/salonishri101/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -574,6 +579,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/salonishri101/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
