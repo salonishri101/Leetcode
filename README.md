@@ -41,6 +41,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/salonishri101/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/salonishri101/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/salonishri101/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -178,6 +179,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0075-sort-colors](https://github.com/salonishri101/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/salonishri101/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -235,6 +237,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0004-median-of-two-sorted-arrays](https://github.com/salonishri101/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/salonishri101/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/salonishri101/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -481,6 +484,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0743-network-delay-time](https://github.com/salonishri101/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/salonishri101/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -686,4 +690,8 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/salonishri101/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
