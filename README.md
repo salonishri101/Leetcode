@@ -438,6 +438,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/salonishri101/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/salonishri101/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/salonishri101/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/salonishri101/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/salonishri101/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -452,6 +453,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/salonishri101/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/salonishri101/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/salonishri101/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/salonishri101/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/salonishri101/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -696,6 +698,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/salonishri101/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/salonishri101/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/salonishri101/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/salonishri101/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/salonishri101/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
