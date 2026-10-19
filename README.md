@@ -88,6 +88,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1929-concatenation-of-array](https://github.com/salonishri101/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/salonishri101/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/salonishri101/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/salonishri101/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/salonishri101/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/salonishri101/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -199,6 +200,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/salonishri101/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/salonishri101/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/salonishri101/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/salonishri101/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/salonishri101/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -346,6 +348,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/salonishri101/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/salonishri101/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/salonishri101/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
