@@ -518,6 +518,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3498-reverse-degree-of-a-string](https://github.com/salonishri101/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/salonishri101/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
