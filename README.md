@@ -72,6 +72,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/salonishri101/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/salonishri101/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/salonishri101/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/salonishri101/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -293,6 +294,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0785-is-graph-bipartite](https://github.com/salonishri101/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/salonishri101/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/salonishri101/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/salonishri101/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/salonishri101/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -312,6 +314,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0994-rotting-oranges](https://github.com/salonishri101/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/salonishri101/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/salonishri101/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/salonishri101/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -579,6 +582,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0802-find-eventual-safe-states](https://github.com/salonishri101/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/salonishri101/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/salonishri101/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/salonishri101/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/salonishri101/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -602,6 +606,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1020-number-of-enclaves](https://github.com/salonishri101/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/salonishri101/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/salonishri101/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/salonishri101/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
