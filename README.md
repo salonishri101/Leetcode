@@ -536,6 +536,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/salonishri101/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/salonishri101/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/salonishri101/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/salonishri101/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +570,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/salonishri101/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/salonishri101/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/salonishri101/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -642,6 +644,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/salonishri101/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/salonishri101/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/salonishri101/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -751,6 +754,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0787-cheapest-flights-within-k-stops](https://github.com/salonishri101/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/salonishri101/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/salonishri101/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/salonishri101/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
