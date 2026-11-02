@@ -48,6 +48,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0435-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonishri101/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/salonishri101/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/salonishri101/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/salonishri101/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/salonishri101/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -159,6 +160,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0189-rotate-array](https://github.com/salonishri101/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/salonishri101/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/salonishri101/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/salonishri101/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/salonishri101/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/salonishri101/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/salonishri101/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -208,6 +210,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0229-majority-element-ii](https://github.com/salonishri101/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/salonishri101/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/salonishri101/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/salonishri101/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/salonishri101/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/salonishri101/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
