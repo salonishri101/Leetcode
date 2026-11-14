@@ -109,6 +109,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/salonishri101/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/salonishri101/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/salonishri101/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/salonishri101/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/salonishri101/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/salonishri101/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/salonishri101/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -355,6 +356,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/salonishri101/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/salonishri101/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/salonishri101/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/salonishri101/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/salonishri101/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
@@ -723,6 +725,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/salonishri101/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/salonishri101/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/salonishri101/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/salonishri101/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/salonishri101/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/salonishri101/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Topological Sort
