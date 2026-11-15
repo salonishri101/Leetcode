@@ -82,6 +82,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1470-shuffle-the-array](https://github.com/salonishri101/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/salonishri101/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/salonishri101/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/salonishri101/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/salonishri101/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/salonishri101/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/salonishri101/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -174,6 +175,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1401-circle-and-rectangle-overlapping](https://github.com/salonishri101/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/salonishri101/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/salonishri101/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -352,6 +354,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1004-max-consecutive-ones-iii](https://github.com/salonishri101/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/salonishri101/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/salonishri101/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/salonishri101/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/salonishri101/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -431,6 +434,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1406-stone-game-iii](https://github.com/salonishri101/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/salonishri101/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/salonishri101/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/salonishri101/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/salonishri101/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/salonishri101/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/salonishri101/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
