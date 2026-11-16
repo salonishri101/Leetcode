@@ -304,6 +304,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [0054-spiral-matrix](https://github.com/salonishri101/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/salonishri101/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/salonishri101/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/salonishri101/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/salonishri101/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/salonishri101/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Union-Find
@@ -549,6 +550,7 @@ This repo is for personal learning, interview preparation, and sharing approache
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/salonishri101/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/salonishri101/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/salonishri101/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/salonishri101/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/salonishri101/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/salonishri101/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/salonishri101/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
